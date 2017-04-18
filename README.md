@@ -1,7 +1,7 @@
 # My Custom Terms of Use
 
-This would be the some standard preamble... 
-_By doing ... you agree ... and so on._ 
+_This could be used for a standard preamble... 
+e.g. By doing ... you agree ... and so on._ 
 
 **Those terms are displayed as soon as you hit the URL of the repo!**
 
