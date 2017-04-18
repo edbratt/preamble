@@ -1,7 +1,9 @@
 # My Custom Terms of Use
 
 This would be the some standard preamble... 
-_By doing ... you agree ... and so on._ that is displayed as soon as you hit the URL of the repo! **
+_By doing ... you agree ... and so on._ 
+
+** Those terms are displayed as soon as you hit the URL of the repo! **
 
 Note that 
 * we don't touch the lincese file.
